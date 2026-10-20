@@ -4,7 +4,7 @@ Projet conçu en équipe avec : [Matis-Shyaka.Gumira]
 
 ## Le concept et l'audience
 
-- Une phrase (logline) : Sur une île viking en guerre contre les dragons, un adolescent Maigrichon et inventif sera bouleversé par la mort de toute sa tribu par une attaque de dragon et va nourrir une haine profond envers eux.
+- Une phrase (logline) : Sur une île viking qui n'a jamais connula  guerre,  un adolescent grand et fort sera bouleversé par la perte de toute sa tribu par une attaque de dragon et va nourrir une haine profond envers eux.
 - Le public cible : Les adolescants
 - La franchise d'origine : How to train your dragon
 
